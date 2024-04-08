@@ -2,8 +2,6 @@
 
 An activity for introducing programmers and non-programmers to programming with generative AI
 
-copyright 2023, Chris Minnick
-
 ## Description
 
 In this activity, you'll work as a team, and with a generative AI tool, to create a trivia game.
