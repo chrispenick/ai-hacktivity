@@ -13,7 +13,10 @@ In this activity, you'll work as a team, and with a generative AI tool, to creat
 1. Each team, and preferably each member of each team, should have access to a generative AI tool such as ChatGPT, Google Bard, Microsoft Bing, or Github Copilot.
 2. Each team should have access to a code editor such as VS Code.
 3. Each team should have access to a web browser.
-4. At least one person on each team should have some familiarity with JavaScript, HTML, and CSS.
+4. At least one person on each team should have some familiarity with a programming language or development stack such as:
+    - JavaScript, HTML, and CSS
+    - Python
+    - Java
 
 ## Instructions
 
